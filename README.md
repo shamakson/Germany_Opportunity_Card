@@ -173,10 +173,7 @@ You are free to:
 
 Under the following condition:
 
-- **Attribution** — you must give appropriate credit to the author.
-
-License details:  
-[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+- **Attribution** — See [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
